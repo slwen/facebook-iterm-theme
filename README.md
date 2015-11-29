@@ -2,6 +2,12 @@
 
 A colour scheme for iTerm 2 based upon the [Sublime Text theme](https://github.com/mbixby/facebook-color-scheme) by [@mbixby](https://github.com/mbixby).
 
+![full-screen](https://raw.githubusercontent.com/slwen/facebook-iterm-theme/master/previews/full-screen.jpg)
+*Full screen*
+
+![side-by-side](https://raw.githubusercontent.com/slwen/facebook-iterm-theme/master/previews/side-by-side.jpg)
+*Side by side with Sublime Text (Using [Facebook colour scheme](https://github.com/mbixby/facebook-color-scheme))*
+
 ## Installation
 
 #### Download With Git
