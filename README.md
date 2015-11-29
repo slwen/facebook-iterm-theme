@@ -13,7 +13,7 @@ A colour scheme for iTerm 2 based upon the [Sublime Text theme](https://github.c
 #### Download With Git
 
 ```sh
-$ git clone https://github.com/slwen/iterm-facebook-theme/
+$ git clone https://github.com/slwen/facebook-iterm-theme.git
 ```
 
 #### Download Manually
