@@ -18,7 +18,7 @@ $ git clone https://github.com/slwen/iterm-facebook-theme/
 
 #### Download Manually
 
-Download using the GitHub .zip download option and unzip the files to your hard drive.
+Download using the [GitHub .zip download](https://github.com/slwen/facebook-iterm-theme/archive/master.zip) option and unzip the files to your hard drive.
 
 #### Activate The Theme
 
